@@ -32,6 +32,18 @@ class Program{
 		Rectangle smallRectange = new Rectangle(10,15);
 		Console.WriteLine($"Area of the Rectangle: {smallRectange.GetArea()}");
 
+		title = """
+
+		|	INTERFACES	|
+
+		""";
+		Console.WriteLine(title);
+
+		Car lapazToyota = new Car();
+		lapazToyota.Move();
+
+		Bicycle bmx = new Bicycle();
+		bmx.Move();
 	}
 }
 
@@ -81,5 +93,19 @@ class Rectangle:Shape{
 		return area = length*width;
 	}
 	
+
+}
+
+class Car:IMovable{
+	public void Move(){
+		Console.WriteLine("Car is moving");
+	}
+
+}
+
+class Bicycle:IMovable{
+	public void Move(){
+		Console.WriteLine("Bicycle is moving");
+	}
 
 }
