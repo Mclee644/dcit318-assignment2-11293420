@@ -12,3 +12,4 @@ C:\Users\mclee\Documents\cSharp\dcit318-assignment2-11293420\obj\Debug\net9.0\re
 C:\Users\mclee\Documents\cSharp\dcit318-assignment2-11293420\obj\Debug\net9.0\dcit318-assignment2-11293420.pdb
 C:\Users\mclee\Documents\cSharp\dcit318-assignment2-11293420\obj\Debug\net9.0\dcit318-assignment2-11293420.genruntimeconfig.cache
 C:\Users\mclee\Documents\cSharp\dcit318-assignment2-11293420\obj\Debug\net9.0\ref\dcit318-assignment2-11293420.dll
+C:\Users\mclee\Documents\cSharp\dcit318-assignment2-11293420\obj\Debug\net9.0\dcit318-assignment2-11293420.sourcelink.json
